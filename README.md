@@ -25,11 +25,14 @@ Scheme Watch Analytics is a comprehensive web-based dashboard that tracks and an
 
 ### Dashboard Overview
 
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./public/Data_input_1.png)
+![Dashboard](./public/Data_input_2.png)
 
 ### School-Wise Analytics
 
-![School Detail View](./assets/school-detail.png)
+![School Detail View](./public/Analytics1.png)
+![School Detail View](./public/Analytics2.png)
+![School Detail View](./public/Analytics3.png)
 
 ---
 
