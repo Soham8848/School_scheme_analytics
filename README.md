@@ -1,10 +1,10 @@
 # React + Vite
 
-# 🏫 Scheme Watch Analytics Plus
+# 🏫 Scheme Watch Analytics
 
 Scheme Watch Analytics is a comprehensive web-based dashboard that tracks and analyzes school visit data related to the Mid-Day Meal (MDM) scheme. The app enables administrators to upload school data, monitor visit status, and view insightful analytics using various interactive charts.
 
-![Logo Placeholder](./assets/logo.png) <!-- Replace with your logo path -->
+![Logo Placeholder](./assets/logo.png) 
 
 ---
 
