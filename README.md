@@ -44,8 +44,7 @@ Scheme Watch Analytics is a comprehensive web-based dashboard that tracks and an
 | **Firebase (Firestore)** | Realtime NoSQL database for storing school data |
 | **Chart.js** | Used for rendering beautiful and customizable graphs |
 | **Tailwind CSS** | Utility-first CSS framework for fast and responsive UI |
-| **Node.js (via Next.js API routes)** | Server-side APIs (if applicable) |
-| **PostgreSQL** *(optional if using hybrid backend)* | Structured data storage (if applicable) |
+
 
 ---
 
